@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuite">
+    <test name="Search Tests">
+        <classes>
+            <class name="com.automation.testcases.SearchTest"/>
+        </classes>
+    </test>
+    
+    <test name="Cart Tests">
+        <classes>
+            <class name="com.automation.testcases.CartTest"/>
+        </classes>
+    </test>
+</suite>
+
+
